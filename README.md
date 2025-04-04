@@ -1,7 +1,7 @@
 # Theater Booking System (Dart)
 
 ## Overview
-This is a simple **Theater Booking System** written in **Dart** without using Object-Oriented Programming (OOP). It allows users to book seats in a 5x5 theater, view the seat layout, and see booking details.
+This is a simple **Theater Booking System** written in **Dart**  using Object-Oriented Programming (OOP) and singletone. It allows users to book seats in a 5x5 theater, view the seat layout, and see booking details.
 
 ## Features
 - **Book a Seat**: Users can select a seat by entering a row and column number.
@@ -43,7 +43,6 @@ Seat booked successfully!
 
 ## Future Improvements
 - Add a **GUI version** using Flutter.
-- Implement **OOP** for better structuring.
 - Add **seat cancellation** and **multiple theater sizes**.
 
 
